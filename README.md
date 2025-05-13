@@ -1,6 +1,3 @@
-# shopify-tracking-scripts
-Shopify tracking script that pushes enhanced conversion data into the Google Ads dataLayer on checkout completion.
-
 # Shopify Tracking Scripts
 
 This repo contains custom JavaScript snippets and Google Tag Manager configurations to implement advanced tracking on Shopify storefronts—primarily focused on Google Ads Enhanced Conversions.
